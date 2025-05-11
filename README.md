@@ -17,9 +17,9 @@ This project analyzes the 2018/2019 English Premier League season to identify wh
 
 ## 📁 Files
 
-- `Title.rmd`: The full R Markdown file containing all analysis and code
-- `Title.md`: Markdown render of the report
-- `Title_files/`: Folder containing plot images generated from the `.Rmd`
+- `epl_analysis.rmd`: The full R Markdown file containing all analysis and code
+- `epl_analysis.md`: Markdown render of the report
+- `epl_analysis_files/figure-gfm`: Folder containing plot images generated from the `.Rmd`
 
 ## 📎 Data Source
 
